@@ -152,8 +152,6 @@ body {
   width: 94px;
   height: 57px;
   background-image: url("images/logo.png");
-  -webkit-background-size: 74px 28px;
-  -moz-background-size: 74px 28px;
   background-size: 74px 28px;
   background-position: left center;
   background-repeat: no-repeat;
